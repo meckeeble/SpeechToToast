@@ -6,8 +6,8 @@ Launch client.py on machine used for outbound messages
 
 Code has dependencies on the following Python packages:
 
-pyaudio
-SpeechRecognition
-win10toast
+pyaudio,
+SpeechRecognition,
+win10toast,
 
 https://vimeo.com/400201328
